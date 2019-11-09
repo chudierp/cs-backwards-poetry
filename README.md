@@ -1,10 +1,10 @@
-# cs-backwards-poetry
+
 
 <h1>Backwards Poetry</h1><br>
 
 <h2>Description</h2>
 
-In this project we will write a Python program to print out poetry backwards, randomly, and any way you can rearrange! By reading a poem in news ways we can discover new meanings or invite new interpretations.
+In this project we will write a Python program to print out poetry backwards, randomly, and any way you can rearrange! It will give you the option of selecting how the poem will be rearranged in the terminal. By reading a poem in news ways we can discover new meanings or invite new interpretations.
 
 <h3>Poem</h3>
 
