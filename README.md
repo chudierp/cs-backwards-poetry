@@ -8,10 +8,10 @@ In this project we will write a Python program to print out poetry backwards, ra
 
 <h3>Poem</h3>
 
-<p>If you are a dreamer, come in,
-If you are a dreamer, a wisher, a liar,
-A hope-er, a pray-er, a magic bean buyer…
-If you’re a pretender, come sit by my fire
-For we have some flax-golden tales to spin.
-Come in!
+<p>If you are a dreamer, come in,<br>
+If you are a dreamer, a wisher, a liar,<br>
+A hope-er, a pray-er, a magic bean buyer…<br>
+If you’re a pretender, come sit by my fire<br>
+For we have some flax-golden tales to spin.<br>
+Come in!<br>
 Come in!</p>
