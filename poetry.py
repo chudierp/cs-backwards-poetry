@@ -22,7 +22,7 @@ def lines_printed_backwards(string_list):
     string_list.reverse()
     
     for string in string_list:
-        #print(str(i)+  " " + string)
+        #print(str(index)+  " " + string)
         print(f'{str(index)}: {string}')
         index -= 1
         
@@ -37,9 +37,19 @@ def lines_printed_random(string_list):
     for string in string_list:
         random_index = random.randint(0,(len(string_list)-1))
         print(string_list[random_index])
+
+
+def rearrange_poem(string_list):
+    """a function of your choice that rearranges the poem in a unique way"""
+    #TODO add a ! between every character
+    
+    for string in range(len(string_list)):
+        print("!".join(string_list[string]))
+
     
       
     
 
 lines_printed_backwards(string_list)
 lines_printed_random(string_list)
+rearrange_poem(string_list)
